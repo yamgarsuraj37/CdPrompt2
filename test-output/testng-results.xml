@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-10-23T13:37:28 IST" name="Default suite" finished-at="2022-10-23T13:37:28 IST" duration-ms="121">
+    <groups>
+    </groups>
+    <test started-at="2022-10-23T13:37:28 IST" name="Default test" finished-at="2022-10-23T13:37:28 IST" duration-ms="121">
+      <class name="suraj.maven14.Seleniumtest">
+        <test-method signature="seleniumcarloan2()[pri:0, instance:suraj.maven14.Seleniumtest@73ee04c8]" started-at="2022-10-23T13:37:28 IST" name="seleniumcarloan2" finished-at="2022-10-23T13:37:28 IST" duration-ms="15" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- seleniumcarloan2 -->
+        <test-method signature="seleniumhomeloan()[pri:0, instance:suraj.maven14.Seleniumtest@73ee04c8]" started-at="2022-10-23T13:37:28 IST" name="seleniumhomeloan" finished-at="2022-10-23T13:37:28 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- seleniumhomeloan -->
+      </class> <!-- suraj.maven14.Seleniumtest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
